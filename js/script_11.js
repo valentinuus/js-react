@@ -54,3 +54,20 @@ console.log(!isChecked || isClose); //результат folse
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ...AbortController,
