@@ -4,6 +4,7 @@
 // alert('hello');
 
 
+
 // Задать вопрос через команду confirm, чтоб получить буливый ответ
 // const result = confirm('Are you here?');
 // console.log(result);

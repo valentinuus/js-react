@@ -19,6 +19,8 @@ const bool = false;
 // NaN - того чего не существует
 // undefined - к примеру переменная без значений
 
+
+
 // объекты
 const obj = {
 	name: "Valya",

@@ -4,7 +4,6 @@
 'user strict';
 
 
-
 const category = 'toys';
 
 console.log(`https://magazin/${category}`)
