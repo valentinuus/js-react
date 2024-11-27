@@ -11,7 +11,7 @@ const personalMovieDB = {
 };
 
 
-for (let i = 0; i < 1; i++) {
+for (let i = 0; i < 2; i++) {
 	const a = prompt("какой последний фильм", ""),
 			b = prompt("баллов поставите", "");
 	if (a != null && b != null && a != '' && b != '' && a.length < 10) {
